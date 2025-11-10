@@ -2,11 +2,10 @@
 
 **Author:** Raymond  
 **Language:** C++  
-**Version:** 1.0 
 **ITCS 2530**
 **Professor Koss**
 
----
+
 
 ##  Overview
 
